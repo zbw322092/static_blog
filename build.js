@@ -1,0 +1,1 @@
+const marked = require('marked');
